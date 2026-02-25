@@ -6,11 +6,16 @@ Je m'appelle **Rémy Maupetit**.
 
 Fort d'un parcours de **24 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** , je viens d'achever avec succès un cursus de formation de **Data Analyst** débuté en mars 2025.
 
+
 Ce portfolio regroupe les différents projets que j'ai menés durant ce cursus à travers les livrables réalisés.
+
+
 
 Cette page me permet également de vous présenter les compétences techniques et comportementales que j'ai acquises au fil de mon parcours. 
 
+
 ### __Compétences techniques__
+
 
 **Python :** *Analyse exploratoire, visualisation, analyses uni et multi-variées, classification, analyses statistiques, machine learning.*
 
@@ -23,7 +28,8 @@ Cette page me permet également de vous présenter les compétences techniques e
 **Knime :** *Traitement de fichiers dans le respect du RGPD , réalisation de calculs et de visualisations pour obtenir des scores de performance.*
 
 
-### __Compétences comportementales__
+### <u>Compétences comportementales</u>
+
 
 **Rigueur :** *Garantir la fiabilité et l'intégrité des résulstats issus de l'analyse de données.*
 
