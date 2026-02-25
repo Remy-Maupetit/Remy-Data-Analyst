@@ -1,32 +1,27 @@
-# Remy-Data-Analyst
+# Remy-Maupetit-Data-Analyst
 
-👋 Bonjour, je m'appelle Rémy
-	Data Analyst junior récemment diplômé, avec 25 ans d'expérience dans le domaine de la livraison dont 5 ans en tant qu'organisateur analyste . Cette page présente une sélection de mes projets en analyse de données réalisées au cours de ma formation, illustrant ma démarche et mes compétences techniques.
-🛠️ Compétences
-Python (Pandas, analyse exploratoire, visualisation)
-SQL
-Power BI
-Excel
-KNIME
-📊 Données des projets
-🔹 Analyse des ventes e-commerce
-Analyse des performances commerciales et création d'un tableau de bord marketing.
-Python, Excel
+## Bonjour, 
 
+Je m'appelle **Rémy Maupetit**.
 
-🔹 Optimisation de données commerciales
-Nettoyage, consolidation et analyse de données multi-sources.
-Python
+Fort d'un parcours de **24 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** , je viens d'achevé avec succès un parcours de formation de **Data Analyst** débuté en mars 2025.
 
+Ce portfolio regroupent les différents projets que j'ai mené durant ce cursus via les livrables réalisés.
 
-🔹 Tableau de bord de pilotage de projets
-Conception d'un tableau de bord interactif pour le suivi des performances.
-Power BI
+Cette page regroupe les différentes compétences acquisent lors de mon parcours. 
+
+### Compétences techniques
+
+**Python** *Analyse exploratoire, visualisation, analyse uni et multi-varié, classification, analyse statistique, machine learning.*
+**SQL** *Création et gestion de base de données, utilisation de requêtes pour répondre à des besoin métiers.*
+**Power BI** *Réalisation de tableaux de bord interactifs pour définir l'état d'avancement de projet , et également pour faciliter la prise de décision.* 
+**Excel** *Réalisation d'un tableau de reporting illustré via des représentations graphiques.*
+**KNIME** *Traitement de fichiers en adéquation avec le RGPD , puis réalisation de calcul et de visualisation permettant l'établissemnt d'un score de performance.*
 
 
-🔹 Base de données immobilières
-Modélisation et exploitation d'une base relationnelle.
-SQL
+### Compétences comportementales
+
+
 
 
 🎯 Objectif
