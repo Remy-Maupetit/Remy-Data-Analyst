@@ -4,52 +4,52 @@
 
 Je m'appelle **Rémy Maupetit**.
 
-Fort d'un parcour de **24 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** , je viens d'achevé avec succès un cursus de formation de **Data Analyst** débuté en mars 2025.
+Fort d'un parcour de **24 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** , je viens d'achever avec succès un cursus de formation de **Data Analyst** débuté en mars 2025.
 
-Ce portfolio regroupent les différents projets que j'ai mené durant ce cursus via les livrables réalisés.
+Ce portfolio regroupe les différents projets que j'ai menés durant ce cursus à travers les livrables réalisés.
 
-Cette page me permet également de vous présenter les différentes compétences acquises lors de mon parcours. 
+Cette page me permet également de vous présenter les compétences techniques et comportementales que j'ai acquises au fil de mon parcours. 
 
 ### Compétences techniques
 
-**Python** *Analyse exploratoire, visualisation, analyse uni et multi-varié, classification, analyse statistique, machine learning.*
+**Python :** *Analyse exploratoire, visualisation, analyses uni et multi-variées, classification, analyses statistiques, machine learning.*
 
-**SQL** *Création et gestion de base de données, utilisation de requêtes pour répondre à des besoin métiers.*
+**SQL :** *Création et gestion de base de données, rédaction de requêtes adaptées aux besoins métiers.*
 
-**Power BI** *Réalisation de tableaux de bord interactifs pour définir l'état d'avancement de projet , et également pour faciliter la prise de décision.* 
+**Power BI :** *Conception de tableaux de bord interactifs facilitant le suivi de projets et la prise de décision.* 
 
-**Excel** *Réalisation d'un tableau de reporting illustré via des représentations graphiques.*
+**Excel :** Elaboration de tableaux de reporting accompagnés de visaulisations graphiques claires et pertitentes.*
 
-**KNIME** *Traitement de fichiers en adéquation avec le RGPD , puis réalisation de calcul et de visualisation permettant l'établissemnt d'un score de performance.*
+**Knime :** *Traitement de fichiers dans le respect du RGPD , réalisation de calculs et de visualisations pour obtenir des scores de performance.*
 
 
 ### Compétences comportementales
 
-**Rigueur** *La rigueur est primordiale pour garantir la probité des résultats issue de l'analyse des données.*
+**Rigueur :** *Garantir la fiabilité et l'intégrité des résulstats issus de l'analyse de données.*
 
-**Communication** *Il faut savoir apporter des informations en les vulgarisant pour rester audible pour les non experts.*
+**Communication :** *Savoir vulgariser les infromations pour les rendre accessibles à un public non experts.*
 
-**Analyse** *Etudier les données avec l'objectifs d'en  extraire des informations métiers pertinentes .* 
+**Analyse :** *Etudier les données dans le but d'en extraire des insights métiers pertinents .* 
 
-**Pédagogie** *Savoir expliquer les données  et les résultats en restant accessible, tout en expliquant simplement les démarches réalisés .*
+**Pédagogie :** *Expliquer les démarches et les résultats de manière simple et compréhensible.*
 
-**Organisation** *Rester focaliser sur l'objectif principal sans s'éparpiller dans des taches secondaires chronophages.*
+**Organisation :** *Rester concentré sur les objectifs principaux sans se disperser dans des tâches secondaires.*
 
-**Sens des responsabilités** *Produire des analyses respectant les contraintes métiers et etre force de propositions .*
+**Sens des responsabilités :** *Produire des analyses conformes aux contraintes métiers et être force de proposition .*
 
-**Ecoute** *Respecter et comprendre les attendus métiers qui doivent découler de l'analyse .*
+**Ecoute :** *Comprendre et intégrer les besoins métiers comme fondement des analyses réalisées.*
 
-**Créativité** *Réaliser des tableaux de bord et illuster les données de manière innovante et agréable toute en respectant les contraintes d'accéssibilité.* 
+**Créativité :** *Concenvoir des tableaux de bord innovants, esthétiques et accessibles.* 
 
-**Ethique** *Etre scrupuleux sur le respect des normes(RGPD) et la sécurité des données utilisées.*
+**Ethique :** *Respecter scrupuleusement sur les normes(RGPD) et assurer la sécurité des données manipulées.*
 
-**Curiosité** *Ne pas hésiter à tester d'autres méthodes et rester en alerte par rapport aux évolutions en matière de data science et visualisation.*
+**Curiosité :** *Explorer de nouvelles méthodes et rester attentif auxx évolutions de la data science et de la visualisation.*
 
-**Esprit critique** *Analyser sans parti pris les données et pouvoir remettre en question les résultats obtenus.*
+**Esprit critique :** *Evaluer les données sans biais et remettre en question les résultats si nécessaire.*
 
-**Adaptabilité** *Etre en capacité de s'adapter aux changement soudain pouvant intervenir.*
+**Adaptabilité :** *Faire preuve de réactivité et de flexibilité face aux changements.*
 
-**Persévérance** *Ne pas baisser les bras en cas d'echec et se remettre en question pour parvenir à réaliser la mission ou l'objectif* 
+**Persévérance :** *Ne pas se décourager en cas d'échec et se remettre en question pour atteindre les objectifs fixés* 
 
 
 
