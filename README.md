@@ -1,7 +1,7 @@
 # Remy_Maupetit_Data_Analyst
 
 
-![photo cv](https://github.com/user-attachments/assets/696ba1da-8ad1-47fe-9477-5cd30b7ae015)
+<img src="https://github.com/user-attachments/assets/696ba1da-8ad1-47fe-9477-5cd30b7ae015" alt="photo CV" width="150" />
 
 
 
