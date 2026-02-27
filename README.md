@@ -10,7 +10,7 @@
 
 Je m'appelle **Rémy Maupetit**, j'ai 44 ans.
 
-Fort d'un parcours de **23 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** et souhaitant me reconvertir dans la domaine de la data, je viens d'achever avec succès un cursus de formation de **Data Analyst** débuté en mars 2025.
+Fort d'un parcours de **23 ans** dans le domaine de la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** et souhaitant me reconvertir dans l'analyse de données, je viens d'achever avec succès un cursus de formation de **Data Analyst** débuté en mars 2025.
 
 
 Ce portfolio regroupe les différents projets que j'ai mené durant ce cursus à travers les livrables réalisés.
