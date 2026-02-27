@@ -51,7 +51,7 @@ Cette page me permet également de vous présenter les compétences techniques e
 
 **Ecoute :** *Comprendre et intégrer les besoins métiers comme fondement des analyses réalisées.*
 
-**Créativité :** *Concenvoir des tableaux de bord innovants, esthétiques et accessibles.* 
+**Créativité :** *Concevoir des tableaux de bord innovants, esthétiques et accessibles.* 
 
 **Ethique :** *Respecter scrupuleusement sur les normes(RGPD) et assurer la sécurité des données manipulées.*
 
