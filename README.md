@@ -59,7 +59,7 @@ Ce portfolio présente les projets réalisés durant ce cursus à travers les li
 
 ## 🔗 Contact
 
-[LinkedIn](https://www.linkedin.com/in/remymaupetit) | [GitHub](https://github.com/Remy-Maupetit)
+[LinkedIn](https://www.linkedin.com/in/remy-maupetit) | [GitHub](https://github.com/Remy-Maupetit)
 
 
 
