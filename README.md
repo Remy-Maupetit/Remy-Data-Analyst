@@ -1,70 +1,65 @@
-# Remy Maupetit
-# Data_Analyst | Analyse & Visualisation de données
-
+# Rémy Maupetit  
+**Data Analyst | Analyse & Visualisation de données**  
 
 <img src="https://github.com/user-attachments/assets/696ba1da-8ad1-47fe-9477-5cd30b7ae015" alt="photo CV" width="150" />
 
+---
 
+## À propos
 
+Je m'appelle **Rémy Maupetit**, j'ai 44 ans.  
 
-## A propos 
+Professionnel expérimenté avec **23 ans dans la logistique du dernier kilomètre**, dont **5 ans en tant qu’Organisateur Analyste**, j’ai développé une forte culture opérationnelle et orientée performance.  
 
-Je m'appelle **Rémy Maupetit**, j'ai 44 ans.
+Souhaitant évoluer vers un métier centré sur l’analyse et la valorisation des données, j’ai suivi et terminé avec succès une formation de **Data Analyst**, débutée en mars 2025.  
 
-Professionnel expérimenté avec **23 ans** dans la **logistique du dernier kilomètre** dont **5 ans** en tant qu'**Organisateur Analyste** j'ai developpé une forte culture opérationnelle et orientée performance.
+Ce portfolio présente les projets réalisés durant ce cursus à travers les livrables produits. Il illustre ma capacité à :  
+* **Structurer un besoin métier**  
+* **Analyser et exploiter des données**  
+* **Concevoir des tableaux de bord décisionnels**  
+* **Vulgariser des résultats analytiques**  
 
-souhaitant évoluer vers un métier centré sur l'analyse et la valorisation des données, jai suivis et achever avec succès une formation de **Data Analyst** débutée en mars 2025.
+---
 
+## Compétences techniques
 
-Ce portfolio présente les projets réalisés durant ce cursus à travers les livrables réalisés.
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Knime](https://img.shields.io/badge/KNIME-000000?style=for-the-badge&logo=KNIME&logoColor=white)  
 
+Python : Analyse exploratoire, visualisation, analyses uni- et multi-variées, analyses statistiques, classification, machine learning.  
 
+SQL : Création et gestion de bases de données, requêtes analytiques orientées besoins métiers.  
 
-Cette page me permet également de vous présenter les compétences techniques et comportementales que j'ai acquises au fil de mon parcours. 
+Power BI : Conception de tableaux de bord interactifs, modélisation simple de données, création d’indicateurs clés (KPI).  
 
+Excel : Tableaux de reporting structurés, visualisations claires et pertinentes.  
 
-### Compétences techniques
+Knime : Préparation de données, traitement conforme RGPD, calcul de scores de performance.  
 
+---
 
-**Python :** *Analyse exploratoire, visualisation, analyses uni et multi-variées, classification, analyses statistiques, machine learning.*
+## Compétences comportementales
 
-**SQL :** *Création et gestion de base de données, rédaction de requêtes adaptées aux besoins métiers.*
+- **Rigueur** : Garantir la fiabilité et l’intégrité des analyses.  
+- **Esprit analytique** : Transformer les données en insights exploitables.  
+- **Communication et pédagogie** : Rendre l’analyse accessible à un public non expert.  
+- **Organisation** : Structurer les projets et prioriser efficacement.  
+- **Sens des responsabilités** : Produire des analyses conformes aux contraintes métiers et être force de proposition.  
+- **Écoute métier** : Comprendre les enjeux opérationnels avant toute analyse.  
+- **Créativité** : Concevoir des tableaux de bord innovants, esthétiques et accessibles.  
+- **Éthique** : Respect strict des normes (RGPD) de confidentialité.  
+- **Curiosité et adaptabilité** : Apprentissage continu et veille active.  
+- **Esprit critique** : Questionner les résultats et éviter les biais.  
+- **Persévérance** : Ne pas se décourager en cas d’échec et se remettre en question pour atteindre les objectifs fixés.  
 
-**Power BI :** *Conception de tableaux de bord interactifs facilitant le suivi de projets et la prise de décision.* 
+---
 
-**Excel :** Elaboration de tableaux de reporting accompagnés de visaulisations graphiques claires et pertitentes.*
+## 🔗 Contact
 
-**Knime :** *Traitement de fichiers dans le respect du RGPD , réalisation de calculs et de visualisations pour obtenir des scores de performance.*
-
-
-### Compétences comportementales
-
-
-**Rigueur :** *Garantir la fiabilité et l'intégrité des résulstats issus de l'analyse de données.*
-
-**Communication :** *Savoir vulgariser les infromations pour les rendre accessibles à un public non experts.*
-
-**Analyse :** *Etudier les données dans le but d'en extraire des insights métiers pertinents .* 
-
-**Pédagogie :** *Expliquer les démarches et les résultats de manière simple et compréhensible.*
-
-**Organisation :** *Rester concentré sur les objectifs principaux sans se disperser dans des tâches secondaires.*
-
-**Sens des responsabilités :** *Produire des analyses conformes aux contraintes métiers et être force de proposition .*
-
-**Ecoute :** *Comprendre et intégrer les besoins métiers comme fondement des analyses réalisées.*
-
-**Créativité :** *Concevoir des tableaux de bord innovants, esthétiques et accessibles.* 
-
-**Ethique :** *Respecter scrupuleusement sur les normes(RGPD) et assurer la sécurité des données manipulées.*
-
-**Curiosité :** *Explorer de nouvelles méthodes et rester attentif auxx évolutions de la data science et de la visualisation.*
-
-**Esprit critique :** *Evaluer les données sans biais et remettre en question les résultats si nécessaire.*
-
-**Adaptabilité :** *Faire preuve de réactivité et de flexibilité face aux changements.*
-
-**Persévérance :** *Ne pas se décourager en cas d'échec et se remettre en question pour atteindre les objectifs fixés* 
+[LinkedIn](https://www.linkedin.com/in/remymaupetit) | [GitHub](https://github.com/remymaupetit)
 
 
 
