@@ -1,5 +1,5 @@
 # Rémy Maupetit  
-**Data Analyst | Analyse & Visualisation de données**  
+## **Data Analyst | Analyse & Visualisation de données**  
 
 <img src="https://github.com/user-attachments/assets/696ba1da-8ad1-47fe-9477-5cd30b7ae015" alt="photo CV" width="150" />
 
@@ -59,7 +59,7 @@ Ce portfolio présente les projets réalisés durant ce cursus à travers les li
 
 ## 🔗 Contactez moi
 
-[LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit) | [Email](mailto:remymaupetit@cegetel.net)
+[LinkedIn](https://www.linkedin.com/in/remy-maupetit-986648311) | [GitHub](https://github.com/Remy-Maupetit) | [Email](remymaupetit@cegetel.net)
 
 
 
